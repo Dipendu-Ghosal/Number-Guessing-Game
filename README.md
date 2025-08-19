@@ -1,2 +1,1 @@
-# Number-Guessing-Game
-
+Guess the right number is less attempts
